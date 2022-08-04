@@ -6,6 +6,7 @@ var r,g,b;
 
 function setup() {
   createCanvas(255 * 2, 255 * 2);
+  document.write("write javascript for the r,g,b of each pixel x and y are the variables var is unnecessary for x, y, r, g, and b r = red g = green b = blue tab to finish");
 }
 
 function keyPressed(){
